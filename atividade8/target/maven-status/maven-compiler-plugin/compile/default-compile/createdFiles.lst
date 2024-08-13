@@ -1,6 +1,4 @@
-com\mycompany\atividade8\DispositivoDeArmazenamento.class
-com\mycompany\atividade8\Memoria.class
-com\mycompany\atividade8\Processador.class
-com\mycompany\atividade8\Produto.class
+com\mycompany\atividade8\Funcionario.class
+com\mycompany\atividade8\Setor.class
 com\mycompany\atividade8\Principal.class
-com\mycompany\atividade8\PlacaMae.class
+com\mycompany\atividade8\Genero.class

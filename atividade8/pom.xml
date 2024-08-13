@@ -11,5 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.atividade8.Atividade8</exec.mainClass>
     </properties>
-    <name>atividade11</name>
+    <name>atividade11-enum</name>
 </project>
