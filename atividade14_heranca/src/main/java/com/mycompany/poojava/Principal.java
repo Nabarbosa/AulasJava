@@ -22,7 +22,7 @@ public class Principal {
         System.out.println("Nome: " + primeiraPessoaJuridica.getNome() + "\nTelefone: " + primeiraPessoaJuridica.getTelefone()
         + "\nCNPJ: " + primeiraPessoaJuridica.getCnpj() + "\nInscricao Atual: " + primeiraPessoaJuridica.getInscricaoAtual());*/
         
-        System.out.println(primeiraPessoaFisica);
-        System.out.println(primeiraPessoaJuridica);
+        System.out.println(primeiraPessoaFisica.toString());
+        System.out.println(primeiraPessoaJuridica.toString());
     }
 }
